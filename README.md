@@ -1,6 +1,9 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋;My+name+is+Veronika)](https://git.io/typing-svg)
-## React Native Developer
-* 🌍  I'm based in Edinburgh
+![Header](https://user-images.githubusercontent.com/15161568/200374183-fca29f22-5e0b-4c9c-ada0-b08afdc39eb1.png)
+
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+based+in+🌍+Edinburgh;)](https://git.io/typing-svg)
+
+
 * ✨ [![verunar StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5388691)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/5388691/verunar))
 
 <a href="https://www.github.com/rveruna" target="_blank" rel="noreferrer"><img

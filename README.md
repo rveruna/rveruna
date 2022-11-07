@@ -2,6 +2,7 @@
 # My name is Veronika
 ## React Native Developer
 * 🌍  I'm based in Edinburgh
+* ✨ [![verunar StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/5388691)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/5388691/verunar))
 
 <a href="https://www.github.com/rveruna" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rveruna?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>

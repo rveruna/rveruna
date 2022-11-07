@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Veronika================================================================================================================================React Native Developer----------------------* 🌍  I'm based in Edinburgh
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# My name is Veronika
+## React Native Developer
+* 🌍  I'm based in Edinburgh
 
 <a href="https://www.github.com/rveruna" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rveruna?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>

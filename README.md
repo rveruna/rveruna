@@ -1,13 +1,13 @@
-<img src="hey-i-am-veronika-logo.png" width="600"  />
+# Hi, I'm Veronika 👋
 
----
+Frontend engineer in Edinburgh with 8+ years building accessible React, React Native and TypeScript apps, most recently in regulated fintech.
 
+I like finding what keeps causing the same problem and fixing it at the source: tests, accessibility checks and tooling that make the next change safer. I'm currently open to frontend and React Native roles, remote-first or Edinburgh-based.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## What I work with
 
+React · React Native · Expo · TypeScript · Jest · React Testing Library · Storybook · Playwright · GraphQL · Vite · Tailwind CSS · accessibility · Claude Code
 
----
+## Get in touch
 
-
-[![verunar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5388691&theme=dark)](https://stackoverflow.com/users/5388691/verunar)
+[LinkedIn](https://www.linkedin.com/in/veronikaros)
